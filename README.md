@@ -1,6 +1,6 @@
 # AI ROI Tracker
 AI ROI Tracker is a full-stack AI analytics platform that monitors AI feature usage, token consumption, infrastructure cost, and feature-level ROI.
-
+![Dashboard](docs/dashboard.png)
 The platform helps identify which AI-powered product features generate the highest business value relative to AI spending.
 
 ## Features
@@ -62,6 +62,21 @@ ROI = \frac{Retention\ Score - AI\ Cost}{AI\ Cost}
 
 ## Dashboard Preview
 
+### Main Dashboard
+
+![Dashboard](docs/dashboard.png)
+
+---
+
+### ROI Analytics
+
+![ROI Chart](docs/roi.png)
+
+---
+
+### FastAPI Swagger APIs
+
+![API Docs](docs/api.png)
 
 ## Future Improvements
 
